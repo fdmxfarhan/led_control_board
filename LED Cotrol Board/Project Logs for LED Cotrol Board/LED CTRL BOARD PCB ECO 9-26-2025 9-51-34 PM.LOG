@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=T? NewDesignator=T1
+Added Component: Designator=P1(Touch)
+Added Component: Designator=T2(AO3400A)
+Added Component: Designator=T3(AO3400A)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetR2_1 Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=G Pin=T2-3
+Added Pin To Net: NetName=NetR3_1 Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-2
+Added Pin To Net: NetName=B Pin=T3-3
+Added Member To Class: ClassName=LED Control Board Member=Component P1 Touch
+Added Member To Class: ClassName=LED Control Board Member=Component T2 AO3400A
+Added Member To Class: ClassName=LED Control Board Member=Component T3 AO3400A
+Added Room: Name=LED Control Board

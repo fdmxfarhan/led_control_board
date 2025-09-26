@@ -1,0 +1,20 @@
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin T1-1
+Add Pin To Net: Unknown Pin: Pin T1-2
+Add Pin To Net: Unknown Pin: Pin T1-3
+Add Pin To Net: Unknown Pin: Pin T2-1
+Add Pin To Net: Unknown Pin: Pin T2-2
+Add Pin To Net: Unknown Pin: Pin T2-3
+Add Pin To Net: Unknown Pin: Pin T3-1
+Add Pin To Net: Unknown Pin: Pin T3-2
+Add Pin To Net: Unknown Pin: Pin T3-3
+Add Class Member: Failed to add class member : Component P1 Touch
+Added Member To Class: ClassName=LED Control Board Member=Component R1 RES
+Added Member To Class: ClassName=LED Control Board Member=Component R2 RES
+Added Member To Class: ClassName=LED Control Board Member=Component R3 RES
+Added Member To Class: ClassName=LED Control Board Member=Component R4 RES
+Added Member To Class: ClassName=LED Control Board Member=Component R5 RES
+Add Class Member: Failed to add class member : Component T1 AO3400A
+Add Class Member: Failed to add class member : Component T2 AO3400A
+Add Class Member: Failed to add class member : Component T3 AO3400A
+Added Room: Name=LED Control Board

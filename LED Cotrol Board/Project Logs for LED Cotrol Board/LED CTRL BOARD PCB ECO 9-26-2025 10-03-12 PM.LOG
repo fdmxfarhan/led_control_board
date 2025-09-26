@@ -1,0 +1,7 @@
+Added Component: Designator=H1(PROGRAMER)
+Added Pin To Net: NetName=VCC Pin=H1-1
+Added Pin To Net: NetName=SWIO Pin=H1-2
+Added Pin To Net: NetName=SWCLK Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Member To Class: ClassName=LED Control Board Member=Component H1 PROG
+Added Room: Name=LED Control Board

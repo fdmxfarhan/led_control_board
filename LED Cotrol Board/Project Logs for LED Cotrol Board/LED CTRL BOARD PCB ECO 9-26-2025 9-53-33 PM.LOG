@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=LED Control Board Member=P1
+Added Component: Designator=P?(Touch)
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=U5-3
+Added Net: Name=NetP?_1
+Added Member To Class: ClassName=LED Control Board Member=Component P? Touch
+Added Room: Name=LED Control Board

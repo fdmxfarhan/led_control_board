@@ -1,0 +1,17 @@
+Add Pin To Net: Unknown Pin: Pin P1-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Add Pin To Net: Unknown Pin: Pin T1-1
+Add Pin To Net: Unknown Pin: Pin T1-2
+Add Pin To Net: Unknown Pin: Pin T1-3
+Add Pin To Net: Unknown Pin: Pin T2-1
+Add Pin To Net: Unknown Pin: Pin T2-2
+Add Pin To Net: Unknown Pin: Pin T2-3
+Add Pin To Net: Unknown Pin: Pin T3-1
+Add Pin To Net: Unknown Pin: Pin T3-2
+Add Pin To Net: Unknown Pin: Pin T3-3
+Add Class Member: Failed to add class member : Component P1 Touch
+Add Class Member: Failed to add class member : Component T1 AO3400A
+Add Class Member: Failed to add class member : Component T2 AO3400A
+Add Class Member: Failed to add class member : Component T3 AO3400A
